@@ -10,6 +10,7 @@ public class SecondClass {
 		System.out.println("now i am on my fatih branch");
 		System.out.println("xxxxxxxxx");
 		System.out.println("it is not hard ");
+		System.out.println("that is enough i am getting tired");
 	}
 
 }
