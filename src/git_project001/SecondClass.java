@@ -9,8 +9,7 @@ public class SecondClass {
 		System.out.println("i want to have conflict");
 		System.out.println("now i am on my fatih branch");
 		System.out.println("xxxxxxxxx");
-
-
+		System.out.println("it is not hard ");
 	}
 
 }
