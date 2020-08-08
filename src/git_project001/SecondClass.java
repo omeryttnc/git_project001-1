@@ -8,6 +8,7 @@ public class SecondClass {
 		System.out.println("yalcin branch is working now");
 		System.out.println("i want to have conflict");
 		System.out.println("now i am on my fatih branch");
+		System.out.println("xxxxxxxxx");
 
 
 	}
